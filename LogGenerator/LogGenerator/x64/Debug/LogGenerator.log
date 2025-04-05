@@ -1,0 +1,82 @@
+﻿   Qt/MSBuild: 3.3.1.1
+  Reading Qt configuration (C:/Qt/6.6.3/msvc2019_64/bin/qmake)
+   Qt: 6.6.3
+  LogWriter.cpp
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0xa0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0xd9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0xda 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0xdb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0xdd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0xe1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0xe2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0xe4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x29e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x29f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x2a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x2a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x2a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x2a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x431 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x433 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x434 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x435 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x437 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x439 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x43a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x587 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x588 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x589 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x58a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x58d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x58e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x591 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x5ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x5ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x5f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x5f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x5f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x5f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x5f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x5fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x83d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x83e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x842 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x845 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.cpp(1,1): warning C4828: 文件包含在偏移 0x849 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xdf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xe0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xe1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xe9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xeb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\LogWriter.h(1,1): warning C4828: 文件包含在偏移 0xed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“LogWriter.cpp”)
+  
+  LogGenerator.vcxproj -> D:\Jacob\Code\LogGenerator\LogGenerator\LogGenerator\x64\Debug\LogGenerator.exe
